@@ -1,0 +1,7 @@
+domain\Course.class
+main\ServerSide.class
+domain\Student.class
+domain\Enrolment.class
+domain\Users.class
+connection\DBConnection.class
+dao\ServerDAO.class
