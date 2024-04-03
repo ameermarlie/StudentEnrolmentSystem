@@ -1,0 +1,6 @@
+domain\Enrolment.class
+domain\Users.class
+domain\Course.class
+CombinedGui\Gui3.class
+domain\Student.class
+connection\DBConnection.class
